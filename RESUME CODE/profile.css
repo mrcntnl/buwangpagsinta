@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.BGR
+{
+    min-height: 100vh;
+    min-width: 100%;
+    background-image: linear-gradient(rgba(3, 3, 3, 0.75),rgba(3, 3, 3, 0.75)),url(BGR2.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    box-sizing: border-box; 
+}
+.profilepic
+{
+    position: absolute;
+    margin-top: 5;
+    margin-left: 5;
+    top: 20px;
+    left: 20px;
+}
+.bordermenu
+{
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(#1B1A17, #1B1A17);
+    position: absolute;  
+    top: 100px;
+    left: 100px;
+}
+h1
+{
+    font-size: 30px;
+    color: #565656; 
+    position: relative;
+    top: -270px;
+    left: 120%;
+    font-style: inherit;
+    text-align: justify;
+    letter-spacing: normal;
+}
+.sur
+{
+    font-size: 30px;
+    color: #FF884B; 
+    position: relative;
+    top:-305px;
+    left: 190%;
+    font-style: inherit;
+    text-align: justify;
+    list-style: none;
+    margin-inline-start: 1px;
+    margin-inline-end: 20px;
+    
+}
+.first
+{
+    font-size: 30px;
+    color: #FF884B; 
+    position: relative;
+    top:-305px;
+    left: 195%;
+    font-style: inherit;
+    text-align: justify;
+    list-style: none;
+    margin-inline-start: 1px;
+    margin-inline-end: 20px;
+}
+p
+{
+    font-size: 30px;
+    color: #FF884B; 
+    position: relative;
+    top:-305px;
+    left: 210%;
+    font-style: inherit;
+    text-align: justify;
+    list-style: none;
+    margin-inline-start: 1px;
+    margin-inline-end: 20px;
+    
+}
+.Home
+{
+    top: 7px;
+    left: 2.7%;
+    position: absolute;
+}
+.secondmenu
+{
+    width: 100%;
+    height: 55;
+    background: linear-gradient(#1B1A17, #1B1A17);
+    position: absolute;  
+    top: 0;
+    right: 0;
+}
+.menu
+{
+    margin-left: 24.9%;
+    margin-right: 0.8%;
+    padding-right: 16.3%;
+    margin-top: 0.3%;
+    width: 95vh;
+    height: 45;
+    background: linear-gradient(#2f2f2f, #2f2f2f);
+    position: absolute;
+    left: 240.8%;  
+    top: -121px;
+
+}
+.FB
+{
+    left: 477%;   
+    top: -87.8px;
+    position: absolute;
+}
+.IG
+{
+    left: 461.1%;   
+    top: -87.8px;
+    position: absolute;
+}
+.YT
+{
+    left: 445.1%;   
+    top: -87.8px;
+    position: absolute;
+}

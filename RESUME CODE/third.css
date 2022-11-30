@@ -1,0 +1,139 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:'Courier New', Courier, monospace
+
+}
+h1
+{
+    font-size: 40px;
+    color: #9000ff; 
+    position: absolute;
+    top: 4;
+    left: 3.7%;
+    font-style: inherit;
+    font-display: The Bold font;
+
+}
+
+.BGR
+{
+    min-height: 100vh;
+    min-width: 100%;
+    background-image: linear-gradient(rgba(17, 17, 17, 0.75),rgba(17, 17, 17, 0.75)),url(BG.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    box-sizing: border-box; 
+
+}
+
+.profilepic
+{
+    margin-top: 5;
+    margin-left: 5;
+    top: 10px;
+    left: 10px;
+}
+.FB
+{
+    top: 1.75%;
+    left: 95.7%;
+    position: absolute;
+}
+.IG
+{
+    top: 1.5%;
+    left: 92.7%;
+    position: absolute;
+}
+.YT
+{
+    top: 1.5%;
+    left: 89.7%;
+    position: absolute;
+}
+.Home
+{
+    top: 1.5%;
+    left: 51.7%;
+    position: absolute;
+}
+.secondmenu
+{
+    width: 100%;
+    height: 55;
+    background: linear-gradient(#1B1A17, #1B1A17);
+    position: absolute;  
+    top: 0;
+    right: 0;
+}
+.menu
+{
+    margin-right: 0.7%;
+    padding-right: 30%;
+    margin-top: 0.3%;
+    width: 40vh;
+    height: 45;
+    background: linear-gradient(#2f2f2f, #2f2f2f);
+    position: absolute;
+    right: 0;   
+    top: 0;
+
+}
+.p1
+{
+    top: 150%;
+    left: 83%;
+    padding-left: 13;
+    padding-right: 6;
+    position: absolute;
+}
+.p2
+{
+    top: 650%;
+    left: 83.4%;
+    padding-left: 8;
+    padding-right: 6;
+    position: absolute;
+}
+.p4
+{
+    top: 650%;
+    left: 70%;
+    padding-left: 8;
+    padding-right: 6;
+    position: absolute;
+}
+.first
+{
+    top: 165%;
+    left: 85%;
+    padding-left: 3;
+    padding-right: 10;
+    position: absolute;
+}
+.second
+{
+    top: 665%;
+    left: 85%;
+    padding-left: 3;
+    padding-right: 10;
+    position: absolute;
+}
+.fourth
+{
+    top: 665%;
+    left: 71.1%;
+    padding-left: 3;
+    padding-right: 10;
+    position: absolute;
+
+}
+.back3
+{
+    top: 320%;
+    left: -20%;
+    position: absolute;
+}
